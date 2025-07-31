@@ -1,0 +1,1667 @@
+{
+  "State Bank of India (SBI)": [
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:03"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:25"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:09"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:05"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:25"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:47"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:07"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:07"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:18"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:04"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:04"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:09"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    }
+  ],
+  "HDFC Bank": [
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:48:25"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:49:09"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:05"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:05"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:25"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:25"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:47"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:47"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:07"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:07"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:27"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:18"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:18"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:43"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:04"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:04"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:04"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:24"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:09"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    }
+  ],
+  "ICICI Bank": [
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:47:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:25"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:09"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:05"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:25"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:47"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:27"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:27"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:18"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:18"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:24"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:04"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:09"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Axis Bank": [
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:03"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:25"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:09"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:05"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:25"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:47"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:07"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:27"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:04"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:04"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:56:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Critical",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Punjab National Bank (PNB)": [
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:23"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:05"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:25"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:47"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:27"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:18"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:04"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:04"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:04"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:24"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:09"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:09"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Kotak Mahindra Bank": [
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:03"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:23"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:25"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:09"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:05"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:25"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:47"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:07"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:27"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:18"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:04"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:24"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Bank of Baroda": [
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:03"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:03"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:25"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:25"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:09"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:09"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:05"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:25"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:47"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:07"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:18"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:04"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:09"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    }
+  ],
+  "Union Bank of India": [
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:03"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:07"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:27"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:53:18"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:43"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:04"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:04"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:09"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Canara Bank": [
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:25"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:09"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:07"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:27"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:18"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:53:38"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:54:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:43"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:24"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:24"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:24"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:04"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:24"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:09"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    }
+  ],
+  "IDBI Bank": [
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:46:43"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:47:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:05"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:48:25"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:09"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:49:49"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:05"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:25"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:50:47"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:51:07"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:51:27"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:54:23"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:03"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:24"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:55:44"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:04"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:04"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:24"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:56:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:04"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:24"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:57:44"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:09"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:58:29"
+    },
+    {
+      "atm": "ATM 1",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "atm": "ATM 2",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    }
+  ]
+}

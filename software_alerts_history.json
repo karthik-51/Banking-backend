@@ -1,0 +1,616 @@
+{
+  "State Bank of India (SBI)": [
+    {
+      "software": "YONO SBI",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "YONO SBI",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "YONO SBI",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Online SBI",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Online SBI",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Online SBI",
+      "system": "Fraud Detection Engine",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "Online SBI",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "YONO SBI",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "software": "Online SBI",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "software": "Online SBI",
+      "system": "Mobile App Services",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "software": "Online SBI",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "software": "YONO SBI",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "YONO SBI",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "Online SBI",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "YONO SBI",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    },
+    {
+      "software": "Online SBI",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "HDFC Bank": [
+    {
+      "software": "PayZapp",
+      "system": "Mobile App Services",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "PayZapp",
+      "system": "Notification Engine",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "HDFC Sky",
+      "system": "Payment Gateway",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "PayZapp",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "HDFC Sky",
+      "system": "Core Banking System",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "HDFC Sky",
+      "system": "Payment Gateway",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "HDFC Sky",
+      "system": "Loan Approval System",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "PayZapp",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "PayZapp",
+      "system": "Fraud Detection Engine",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "HDFC Sky",
+      "system": "Loan Approval System",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "PayZapp",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "software": "PayZapp",
+      "system": "Mobile App Services",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "software": "HDFC Sky",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "software": "PayZapp",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "HDFC Sky",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    },
+    {
+      "software": "HDFC Sky",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Axis Bank": [
+    {
+      "software": "Axis Mobile",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "Axis Mobile",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "Axis Mobile",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Axis Mobile",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Axis Mobile",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "software": "Axis Mobile",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "Axis Mobile",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "Axis Mobile",
+      "system": "Mobile App Services",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    },
+    {
+      "software": "Axis Mobile",
+      "system": "Notification Engine",
+      "status": "Critical",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Punjab National Bank (PNB)": [
+    {
+      "software": "PNB One",
+      "system": "Payment Gateway",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "PNB One",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "PNB One",
+      "system": "Mobile App Services",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "PNB One",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "PNB One",
+      "system": "Core Banking System",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "PNB One",
+      "system": "Mobile App Services",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "PNB One",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "PNB One",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "PNB One",
+      "system": "Mobile App Services",
+      "status": "Critical",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Kotak Mahindra Bank": [
+    {
+      "software": "Kotak 811",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "Kotak 811",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "Kotak 811",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Kotak 811",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    },
+    {
+      "software": "Kotak 811",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Union Bank of India": [
+    {
+      "software": "Union Mobile",
+      "system": "Mobile App Services",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "Union Mobile",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "Union Mobile",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "Union Mobile",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Union Mobile",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "Union Mobile",
+      "system": "Mobile App Services",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "Union Mobile",
+      "system": "Payment Gateway",
+      "status": "Critical",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "Union Mobile",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    },
+    {
+      "software": "Union Mobile",
+      "system": "Mobile App Services",
+      "status": "Critical",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Canara Bank": [
+    {
+      "software": "Canara mBanking",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "Canara mBanking",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "Canara mBanking",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Canara mBanking",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Canara mBanking",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    }
+  ],
+  "IDBI Bank": [
+    {
+      "software": "IDBI Go",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "IDBI Go",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:00"
+    },
+    {
+      "software": "IDBI Go",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "IDBI Go",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "IDBI Go",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "IDBI Go",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "IDBI Go",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    },
+    {
+      "software": "IDBI Go",
+      "system": "Mobile App Services",
+      "status": "Critical",
+      "timestamp": "2025-07-31 23:00:41"
+    },
+    {
+      "software": "IDBI Go",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "ICICI Bank": [
+    {
+      "software": "iMobile",
+      "system": "Mobile App Services",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "iMobile",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "iMobile",
+      "system": "Loan Approval System",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Pockets",
+      "system": "Loan Approval System",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "iMobile",
+      "system": "Payment Gateway",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "iMobile",
+      "system": "Mobile App Services",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "iMobile",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "Pockets",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "Pockets",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "iMobile",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:41"
+    },
+    {
+      "software": "Pockets",
+      "system": "Mobile App Services",
+      "status": "Critical",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ],
+  "Bank of Baroda": [
+    {
+      "software": "Baroda Connect",
+      "system": "Payment Gateway",
+      "status": "Critical",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Baroda Connect",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Baroda Connect",
+      "system": "Fraud Detection Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:20"
+    },
+    {
+      "software": "Baroda Connect",
+      "system": "Mobile App Services",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "Baroda Connect",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 22:59:41"
+    },
+    {
+      "software": "Baroda Connect",
+      "system": "Core Banking System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "software": "Baroda Connect",
+      "system": "Loan Approval System",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:01"
+    },
+    {
+      "software": "Baroda Connect",
+      "system": "Payment Gateway",
+      "status": "Critical",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "Baroda Connect",
+      "system": "Notification Engine",
+      "status": "Warning",
+      "timestamp": "2025-07-31 23:00:21"
+    },
+    {
+      "software": "Baroda Connect",
+      "system": "Payment Gateway",
+      "status": "Critical",
+      "timestamp": "2025-07-31 23:00:41"
+    }
+  ]
+}
